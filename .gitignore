@@ -12,7 +12,5 @@ package-lock.json
 .npm
 .vscode
 .idea
-/public/
-/src/
 /fixindex.php
 /package.json
